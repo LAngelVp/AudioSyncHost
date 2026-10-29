@@ -1,0 +1,7 @@
+dist/
+build/
+local_models/
+temp_audio/
+__pycache__/
+*.exe
+*.pkg

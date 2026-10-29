@@ -1,0 +1,17 @@
+{
+    "storage": {
+        "output_directory": "C:\\Users\\XML0234\\Documents\\NotasReuniones",
+        "keep_audio_file": false
+    },
+    "stealth": {
+        "hotkey_toggle_ui": "ctrl+alt+s"
+    },
+    "ai_settings": {
+        "enabled": false,
+        "provider_base_url": "https://api.groq.com/openai/v1",
+        "api_key": "",
+        "stt_model": "whisper-large-v3-turbo",
+        "llm_model": "llama-3.3-70b-versatile",
+        "system_prompt": "Eres un asistente experto en análisis de reuniones. A partir de la siguiente transcripción, genera un documento estructurado en Markdown con:\n1. Resumen Ejecutivo.\n2. Puntos Clave discutidos.\n3. Acuerdos y Tareas Pendientes (Action Items).\n4. Conclusión General."
+    }
+}

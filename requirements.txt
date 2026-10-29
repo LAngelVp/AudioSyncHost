@@ -1,0 +1,8 @@
+customtkinter>=5.2.2
+PyAudioWPatch>=0.2.12.6
+numpy>=1.26.4
+requests>=2.31.0
+keyboard>=0.13.5
+SpeechRecognition>=3.10.4
+faster-whisper>=1.0.3
+pyinstaller>=6.6.0
